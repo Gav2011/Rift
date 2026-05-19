@@ -1,13 +1,13 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Gav2011/Rift/refs/heads/main/Rift.png" alt="Rift Logo" width="160"/>
   
-# Rift
+# [Rift](https://modeminc.com/rift)
 
 ### A modern instant messaging & voice platform built for communities, friends, and teams.
 [![Platform](https://img.shields.io/badge/platform-Web-lightgrey)]()
-[![Version](https://img.shields.io/badge/version-1-orange)]()
+[![Platform](https://img.shields.io/badge/platform-Windows-0078D6)]()
 
-**[modeminc.com/rift](https://modeminc.com/rift)**
+[Download Windows](https://cdn.modeminc.com/rift/RiftSetup.exe)
 
 </div>
 
