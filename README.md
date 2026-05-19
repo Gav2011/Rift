@@ -1,13 +1,10 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Gav2011/Rift/refs/heads/main/Rift.png" alt="Rift Logo" width="160"/>
-  
+
 # [Rift](https://modeminc.com/rift)
-
 ### A modern instant messaging & voice platform built for communities, friends, and teams.
-[![Platform](https://img.shields.io/badge/platform-Web-lightgrey)]()
-[![Platform](https://img.shields.io/badge/platform-Windows-0078D6)]()
 
-[Download Windows](https://cdn.modeminc.com/rift/RiftSetup.exe)
+[Download for Windows](https://cdn.modeminc.com/rift/RiftSetup.exe)
 
 </div>
 
@@ -15,7 +12,7 @@
 
 ## Overview
 
-Rift is a real-time communication platform designed for seamless messaging, high-quality voice communication.
+Rift is a real-time communication platform designed for seamless messaging and high-quality voice communication.
 
 Whether you're building gaming communities, collaborating with teams, or connecting with friends.
 
@@ -26,3 +23,23 @@ Whether you're building gaming communities, collaborating with teams, or connect
 <div align="center">
 <img src="https://cdn.modeminc.com/rift/RiftBetaTest.png" alt="Rift Screenshot" width="100%"/>
 </div>
+
+---
+
+## Download
+
+> [!NOTE]
+> The installer is hosted on the ModemINC CDN. Manual file downloads are not recommended.
+
+| Platform | Download |
+|----------|----------|
+| Windows | [RiftSetup.exe](https://cdn.modeminc.com/rift/RiftSetup.exe) |
+
+---
+
+## Contact
+
+For support, inquiries, or to get involved with Rift:
+
+-  **Official Invite:** [modeminc.com/rift/invite/Rift](https://modeminc.com/rift/invite/Rift)
+-  **Email:** [Gav2011@modeminc.com](mailto:Gav2011@modeminc.com)
