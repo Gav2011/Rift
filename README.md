@@ -32,8 +32,8 @@ Whether you're building gaming communities, collaborating with teams, or connect
 > The installer is hosted on the ModemINC CDN. Manual file downloads are not recommended.
 
 | Platform | Download |
-|----------|----------|
-| Windows | [RiftSetup.exe](https://cdn.modeminc.com/rift/RiftSetup.exe) |
+|-----------|------------|
+|  Windows | [ModemInstaller.exe](https://cdn.modeminc.com/ModemInstaller.exe) |
 
 ---
 
