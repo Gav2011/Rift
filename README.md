@@ -4,7 +4,7 @@
 # [Rift](https://modeminc.com/rift)
 ### A modern instant messaging & voice platform built for communities, friends, and teams.
 
-[Download for Windows](https://cdn.modeminc.com/rift/RiftSetup.exe)
+[Download for Windows](https://cdn.modeminc.com/ModemInstaller.exe)
 
 </div>
 
